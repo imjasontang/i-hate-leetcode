@@ -1,1 +1,2 @@
-# i-hate-leetcode
+# LeetCode
+Thank you, LeetCode, you ruined my life.
